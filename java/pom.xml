@@ -75,7 +75,7 @@
     <maven.compiler.useIncrementalCompilation>false</maven.compiler.useIncrementalCompilation>
     <maven.version>3.9.9</maven.version>
 
-    <mockito.version>5.10.0</mockito.version>
+    <mockito.version>5.12.0</mockito.version>
     <orc-format.version>1.0.0</orc-format.version>
     <!-- Build Properties -->
     <project.build.outputTimestamp>2025-01-05T19:25:27Z</project.build.outputTimestamp>
